@@ -1,1 +1,3 @@
-# udacity_tv_script_generation
+# Udacity TV Script Generation Project
+
+I have created this repo for upload reasons. I will add more details soon...
