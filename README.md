@@ -18,7 +18,8 @@ The embedding layer is used to store embeddings of a fixed dictionary, which is 
 ## Script generation 
 
 Finally, we use our trained model to generate a script. Given the prompt __george__, our model generated this script:
-```george:(to george) i don't want you to take a bite, i'm not getting a little more.
+``` 
+george:(to george) i don't want you to take a bite, i'm not getting a little more.
 
 george:(to elaine) hey, what are you talking about?
 
@@ -78,7 +79,8 @@ george: well it's just a few things.
 
 george:(to george) what about the money?
 
-elaine:(to george, he gets up to leave) you know, this woman```
+elaine:(to george, he gets up to leave) you know, this woman
+```
 
 
 
